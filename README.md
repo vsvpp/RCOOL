@@ -8,6 +8,16 @@
 ###### This is from a da hood server
 <img src="https://github.com/devstacking/RCO/assets/106433721/40406aa7-1831-4170-bd73-e751494f4382" width="458"/>
 
+##### Here are some reasons:
+
+1. This is probably his preset *(it sucks)* (never expect something good from a dahoodian) **"20k-fps-boost"**
+1. **LuaAppSystemBar** is patched. <sup>(592)</sup>
+1. How can **FontSizePadding & ScrollWheelDeltaAmmount and 2.** boost your fps? Are you okay?
+1. **DebugSkyGray** <sup>(for me)</sup> doesn't give a boost.
+1. Asked for help y'all didnt do s\***\.
+
+### Not saying im smarter but y'all <img src="https://cdn.discordapp.com/emojis/1105507231081971782.png" width="22"/>
+
 # <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> RCOOL
 
 ##### Might look awful but for it's performance. Also disables some useless settings
