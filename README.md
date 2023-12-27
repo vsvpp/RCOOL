@@ -11,7 +11,7 @@
 
 # <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> RCOOL
 
-##### Might look awful but for performance. Also disables some useless settings
+##### Might look awful but for it's performance. Also disables some useless settings
 
 ```json
 {
