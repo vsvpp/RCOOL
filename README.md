@@ -61,7 +61,6 @@
   "FFlagGpuGeometryManager7": "True",
   "DFFlagPredictedOOM": "False",
   "DFIntPredictedOOMPercent": "0",
-  "FIntCameraMaxZoomDistance": "99999",
   "FFlagDisablePostFx": "True",
   "FFlagEnableQuickGameLaunch": "True",
   "DFFlagDebugPauseVoxelizer": "True",
