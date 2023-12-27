@@ -8,7 +8,6 @@
 ### Blind leads the blinds.
 ###### This is from a da hood server
 <img src="https://github.com/devstacking/RCO/assets/106433721/40406aa7-1831-4170-bd73-e751494f4382" width="458"/>
-###### This is from a da hood server
 
 # <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> RCOOL
 
