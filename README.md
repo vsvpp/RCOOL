@@ -1,3 +1,5 @@
+###### All from [uffl](https://github.com/devstacking/Epic-Fast-Flags-List) & [ptf](https://github.com/catb0x/roblox-potato-fflags)
+
 > [!NOTE]
 > Please make an issue If you got a problem or a suggestion, Thanks.
 
@@ -67,3 +69,4 @@
   "FFlagEnableAudioOutputDevice": "True",
 }
 ```
+##### FastFlags 2024®<sup>eal</sup>
