@@ -4,7 +4,16 @@
 > Please make an issue If you got a problem or a suggestion, Thanks.
 
 # <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Roblox Client Optimizer (but all fflags are known and does something.)
-###### Might look awful but for performance. Also disables some useless settings
+##### Might look awful but for performance. Also disables some useless settings
+### Blind leads the blinds.
+###### This is from a da hood server
+<img src="https://github.com/devstacking/RCO/assets/106433721/40406aa7-1831-4170-bd73-e751494f4382" width="458"/>
+###### This is from a da hood server
+
+# <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> RCOOL
+
+##### Might look awful but for performance. Also disables some useless settings
+
 ```json
 {
   "DFIntTaskSchedulerTargetFps": "9999",
