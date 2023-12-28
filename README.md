@@ -6,7 +6,7 @@
 # <img src="https://cdn.discordapp.com/emojis/1046770973170470973.webp?size=80&quality=lossless" width="28"/> Roblox Client Optimizer (but all fflags are known and does something.)
 ##### Version: 0.1.2
 * Changed Value of [**DFIntTextureQualityOverride**](https://github.com/devstacking/RCOOL/#low-quality-textures) to 3 ***<sup>it looks really bad</sup>***
-* Replace some images
+* Replaced some images
 
 ### Blind leads the blinds.
 ###### This is from a da hood server
