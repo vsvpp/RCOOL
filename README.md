@@ -32,6 +32,7 @@ edit: Their new thing "called SINDRO V3" are just from RFO with abusive fflags
   "DFIntTaskSchedulerTargetFps": "9999",
   "FFlagDebugDisableTelemetryEphemeralCounter": "True",
   "FFlagDebugDisableTelemetryEphemeralStat": "True",
+  "FIntRenderLocalLightFadeInMs": "0",
   "FFlagDebugDisableTelemetryEventIngest": "True",
   "FFlagDebugDisableTelemetryPoint": "True",
   "FFlagDebugDisableTelemetryV2Counter": "True",
