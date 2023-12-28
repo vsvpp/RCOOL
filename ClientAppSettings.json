@@ -1,7 +1,9 @@
 {
   "DFIntTaskSchedulerTargetFps": "9999",
+  "FFlagFixGraphicsQuality": "True",
   "FFlagDebugDisableTelemetryEphemeralCounter": "True",
   "FFlagDebugDisableTelemetryEphemeralStat": "True",
+  "FIntRenderLocalLightFadeInMs": "0",
   "FFlagDebugDisableTelemetryEventIngest": "True",
   "FFlagDebugDisableTelemetryPoint": "True",
   "FFlagDebugDisableTelemetryV2Counter": "True",
@@ -39,7 +41,6 @@
   "DFIntMaxFrameBufferSize": "4",
   "FFlagGraphicsGLEnableHQShadersExclusion": "True",
   "FFlagGraphicsGLEnableSuperHQShadersExclusion": "True",
-  "FFlagDebugTextBoxServiceShowOverlay": "True",
   "FFlagRenderGpuTextureCompressor": "True",
   "FFlagGpuGeometryManager7": "True",
   "DFFlagPredictedOOM": "False",
@@ -53,7 +54,7 @@
   "FFlagHandleAltEnterFullscreenManually": "False",
   "FFlagEnableInGameMenuChrome": "False",
   "DFFlagTextureQualityOverrideEnabled": "True",
-  "DFIntTextureQualityOverride": "0",
+  "DFIntTextureQualityOverride": "1",
   "FFlagGraphicsGLTextureReduction": "True",
   "DFFlagEnableDynamicHeadByDefault": "False",
   "FFlagEnableAudioOutputDevice": "True"
