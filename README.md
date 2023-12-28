@@ -5,7 +5,7 @@
 
 # <img src="https://cdn.discordapp.com/emojis/1046770973170470973.webp?size=80&quality=lossless" width="28"/> Roblox Client Optimizer (but all fflags are known and does something.)
 ##### Version: 0.1.2
-* Changed Value of [**DFIntTextureQualityOverride**](https://github.com/devstacking/RCOOL/#low-quality-textures) to 3 ***<sup>it looks really bad</sup>***
+* change the value of **DFIntTextureQualityOverride** to 3 if you dont want it ***<sup>it looks really bad</sup>***
 * Replaced some images
 
 ### Blind leads the blinds.
@@ -84,7 +84,7 @@ edit: Their new thing "called SINDRO V3" are just from RFO with abusive fflags
   "FFlagHandleAltEnterFullscreenManually": "False",
   "FFlagEnableInGameMenuChrome": "False",
   "DFFlagTextureQualityOverrideEnabled": "True",
-  "DFIntTextureQualityOverride": "3",
+  "DFIntTextureQualityOverride": "1",
   "FFlagGraphicsGLTextureReduction": "True",
   "DFFlagEnableDynamicHeadByDefault": "False",
   "FFlagEnableAudioOutputDevice": "True"
