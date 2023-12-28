@@ -3,7 +3,11 @@
 > [!NOTE]
 > Please make an issue If you got a problem or a suggestion, Thanks.
 
-# <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> Roblox Client Optimizer (but all fflags are known and does something.)
+# <img src="https://cdn.discordapp.com/emojis/1046770973170470973.webp?size=80&quality=lossless" width="28"/> Roblox Client Optimizer (but all fflags are known and does something.)
+##### Version: 0.1.2
+* Changed Value of [**DFIntTextureQualityOverride**](https://github.com/devstacking/RCOOL/#low-quality-textures) to 3 ***<sup>it looks really bad</sup>***
+* Replace some images
+
 ### Blind leads the blinds.
 ###### This is from a da hood server
 <img src="https://github.com/devstacking/RCO/assets/106433721/40406aa7-1831-4170-bd73-e751494f4382" width="458"/>
@@ -14,16 +18,15 @@ edit: Their new thing "called SINDRO V3" are just from RFO with abusive fflags
 
 1. This is probably his preset *(it sucks)* (never expect something good from a dahoodian) **"20k-fps-boost"**
 1. **LuaAppSystemBar** is patched. <sup>(592)</sup>
-1. How can **FontSizePadding & ScrollWheelDeltaAmmount and 2.** boost your fps? Are you okay?
+1. How can **FontSizePadding, FLogNetwork, ScrollWheelDeltaAmmount & 2.** boost your fps? Are you okay?
 1. **DebugSkyGray** <sup>(for me)</sup> doesn't give a boost.
 1. Asked for help y'all didnt do s\***\.
 
 ### Not saying im smarter but y'all <img src="https://cdn.discordapp.com/emojis/1105507231081971782.png" width="22"/>
 
-# <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="28"/> RCOOL
+# <img src="https://cdn.discordapp.com/emojis/1121484182724550748.gif?size=80&quality=lossless" width="28"/> RCOOL
 
 ##### Might look awful but for it's performance. Also disables some useless settings
-
 ```json
 {
   "DFIntTaskSchedulerTargetFps": "9999",
@@ -66,7 +69,6 @@ edit: Their new thing "called SINDRO V3" are just from RFO with abusive fflags
   "DFIntMaxFrameBufferSize": "4",
   "FFlagGraphicsGLEnableHQShadersExclusion": "True",
   "FFlagGraphicsGLEnableSuperHQShadersExclusion": "True",
-  "FFlagDebugTextBoxServiceShowOverlay": "True",
   "FFlagRenderGpuTextureCompressor": "True",
   "FFlagGpuGeometryManager7": "True",
   "DFFlagPredictedOOM": "False",
@@ -80,10 +82,19 @@ edit: Their new thing "called SINDRO V3" are just from RFO with abusive fflags
   "FFlagHandleAltEnterFullscreenManually": "False",
   "FFlagEnableInGameMenuChrome": "False",
   "DFFlagTextureQualityOverrideEnabled": "True",
-  "DFIntTextureQualityOverride": "0",
+  "DFIntTextureQualityOverride": "3",
   "FFlagGraphicsGLTextureReduction": "True",
   "DFFlagEnableDynamicHeadByDefault": "False",
   "FFlagEnableAudioOutputDevice": "True"
+}
+```
+
+# <img src="https://cdn.discordapp.com/emojis/1118204442244808725.webp?size=80&quality=lossless" width="28"/> Optional Stuff
+### Low Quality Textures
+```json
+{
+  "DFFlagTextureQualityOverrideEnabled": "True",
+  "DFIntTextureQualityOverride": "0",
 }
 ```
 ##### FastFlags 2024®<sup>eal</sup>
