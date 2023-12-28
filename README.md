@@ -8,6 +8,8 @@
 ###### This is from a da hood server
 <img src="https://github.com/devstacking/RCO/assets/106433721/40406aa7-1831-4170-bd73-e751494f4382" width="458"/>
 
+edit: Their new thing "called SINDRO V3" are just from RFO with abusive fflags
+
 ##### Here are some reasons:
 
 1. This is probably his preset *(it sucks)* (never expect something good from a dahoodian) **"20k-fps-boost"**
