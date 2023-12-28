@@ -30,6 +30,7 @@ edit: Their new thing "called SINDRO V3" are just from RFO with abusive fflags
 ```json
 {
   "DFIntTaskSchedulerTargetFps": "9999",
+  "FFlagFixGraphicsQuality": "True",
   "FFlagDebugDisableTelemetryEphemeralCounter": "True",
   "FFlagDebugDisableTelemetryEphemeralStat": "True",
   "FIntRenderLocalLightFadeInMs": "0",
@@ -87,15 +88,6 @@ edit: Their new thing "called SINDRO V3" are just from RFO with abusive fflags
   "FFlagGraphicsGLTextureReduction": "True",
   "DFFlagEnableDynamicHeadByDefault": "False",
   "FFlagEnableAudioOutputDevice": "True"
-}
-```
-
-# <img src="https://cdn.discordapp.com/emojis/1118204442244808725.webp?size=80&quality=lossless" width="28"/> Optional Stuff
-### Low Quality Textures
-```json
-{
-  "DFFlagTextureQualityOverrideEnabled": "True",
-  "DFIntTextureQualityOverride": "0",
 }
 ```
 ##### FastFlags 2024®<sup>eal</sup>
