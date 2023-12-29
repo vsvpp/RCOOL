@@ -4,9 +4,9 @@
 > Please make an issue If you got a problem or a suggestion, Thanks.
 
 # <img src="https://cdn.discordapp.com/emojis/1046770973170470973.webp?size=80&quality=lossless" width="28"/> Roblox Client Optimizer (but all fflags are known and does something.)
-##### Version: 0.1.2
+##### Version: 0.1.3
 * change the value of **DFIntTextureQualityOverride** to 3 if you dont want it ***<sup>it looks really bad</sup>***
-* Replaced some images
+* added some stuff and edited some values
 
 ### Blind leads the blinds.
 ###### This is from a da hood server
@@ -47,8 +47,8 @@ edit: Their new thing "called SINDRO V3" are just from RFO with abusive fflags
   "DFIntCSGLevelOfDetailSwitchingDistanceL12": "0",
   "DFIntCSGLevelOfDetailSwitchingDistanceL23": "0",
   "DFIntCSGLevelOfDetailSwitchingDistanceL34": "0",
-  "FIntRenderLocalLightUpdatesMax": "8",
-  "FIntRenderLocalLightUpdatesMin": "6",
+  "FIntRenderLocalLightUpdatesMax": "1",
+  "FIntRenderLocalLightUpdatesMin": "1",
   "FFlagAdServiceEnabled": "False",
   "FFlagFastGPULightCulling3": "True",
   "FFlagNewLightAttenuation": "True",
@@ -66,6 +66,7 @@ edit: Their new thing "called SINDRO V3" are just from RFO with abusive fflags
   "DFIntDebugFRMQualityLevelOverride": "1",
   "FFlagDisableNewIGMinDUA": "True",
   "FFlagPreloadAllFonts": "True",
+  "FFlagFixGraphicsQuality": "True",
   "FFlagCommitToGraphicsQualityFix": "True",
   "FFlagDebugSkyGray": "True",
   "DFIntMaxFrameBufferSize": "4",
@@ -80,6 +81,8 @@ edit: Their new thing "called SINDRO V3" are just from RFO with abusive fflags
   "DFFlagDebugPauseVoxelizer": "True",
   "FFlagDebugGraphicsPreferD3D11FL10": "True",
   "FFlagDebugGraphicsPreferD3D11": "False",
+  "FFlagRenderEnableGlobalInstancingD3D10": "True",
+  "FFlagRenderEnableGlobalInstancingD3D11": "True",
   "FFlagGraphicsEnableD3D10Compute": "True",
   "FFlagHandleAltEnterFullscreenManually": "False",
   "FFlagEnableInGameMenuChrome": "False",
