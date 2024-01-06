@@ -4,8 +4,9 @@
 > Please make an issue If you got a problem or a suggestion, Thanks.
 
 # <img src="https://cdn.discordapp.com/emojis/1046770973170470973.webp?size=80&quality=lossless" width="28"/> Roblox Client Optimizer (but all fflags are known and does something.)
-##### Version: 0.1.4
+##### Version: 0.1.5
 * change the value of **DFIntTextureQualityOverride** to 1 if you want it ***<sup>it looks really bad but it's for the boost 🤑</sup>***
+* Does not force DX10 Rendering API
 * added some stuff and edited some values
 
 ### Blind leads the blinds.
@@ -76,8 +77,6 @@ edit: Their new thing "called SINDRO V3" are just from RFO with abusive fflags
   "FFlagCommitToGraphicsQualityFix": "True",
   "FFlagDebugSkyGray": "True",
   "DFIntMaxFrameBufferSize": "4",
-  "FFlagGraphicsGLEnableHQShadersExclusion": "True",
-  "FFlagGraphicsGLEnableSuperHQShadersExclusion": "True",
   "FFlagRenderGpuTextureCompressor": "True",
   "FFlagGpuGeometryManager7": "True",
   "DFFlagPredictedOOM": "False",
@@ -85,16 +84,10 @@ edit: Their new thing "called SINDRO V3" are just from RFO with abusive fflags
   "FFlagDisablePostFx": "True",
   "FFlagEnableQuickGameLaunch": "True",
   "DFFlagDebugPauseVoxelizer": "True",
-  "FFlagDebugGraphicsPreferD3D11FL10": "True",
-  "FFlagDebugGraphicsPreferD3D11": "False",
-  "FFlagRenderEnableGlobalInstancingD3D10": "True",
-  "FFlagRenderEnableGlobalInstancingD3D11": "True",
-  "FFlagGraphicsEnableD3D10Compute": "True",
   "FFlagHandleAltEnterFullscreenManually": "False",
   "FFlagEnableInGameMenuChrome": "False",
   "DFFlagTextureQualityOverrideEnabled": "True",
   "DFIntTextureQualityOverride": "3",
-  "FFlagGraphicsGLTextureReduction": "True",
   "DFFlagEnableDynamicHeadByDefault": "False",
   "FFlagEnableAudioOutputDevice": "False"
 }
