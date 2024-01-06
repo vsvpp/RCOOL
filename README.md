@@ -4,8 +4,8 @@
 > Please make an issue If you got a problem or a suggestion, Thanks.
 
 # <img src="https://cdn.discordapp.com/emojis/1046770973170470973.webp?size=80&quality=lossless" width="28"/> Roblox Client Optimizer (but all fflags are known and does something.)
-##### Version: 0.1.3
-* change the value of **DFIntTextureQualityOverride** to 3 if you dont want it ***<sup>it looks really bad</sup>***
+##### Version: 0.1.4
+* change the value of **DFIntTextureQualityOverride** to 1 if you want it ***<sup>it looks really bad but it's for the boost 🤑</sup>***
 * added some stuff and edited some values
 
 ### Blind leads the blinds.
@@ -67,7 +67,7 @@ edit: Their new thing "called SINDRO V3" are just from RFO with abusive fflags
   "FIntRenderGrassDetailStrands": "0",
   "FintRenderGrassHeightScaler": "0",
   "DFFlagDebugRenderForceTechnologyVoxel": "True",
-  "DFFlagDisableDPIScale": "False",
+  "DFFlagDisableDPIScale": "True",
   "FFlagCoreGuiTypeSelfViewPresent": "False",
   "DFIntDebugFRMQualityLevelOverride": "1",
   "FFlagDisableNewIGMinDUA": "True",
@@ -93,10 +93,10 @@ edit: Their new thing "called SINDRO V3" are just from RFO with abusive fflags
   "FFlagHandleAltEnterFullscreenManually": "False",
   "FFlagEnableInGameMenuChrome": "False",
   "DFFlagTextureQualityOverrideEnabled": "True",
-  "DFIntTextureQualityOverride": "1",
+  "DFIntTextureQualityOverride": "3",
   "FFlagGraphicsGLTextureReduction": "True",
   "DFFlagEnableDynamicHeadByDefault": "False",
-  "FFlagEnableAudioOutputDevice": "True"
+  "FFlagEnableAudioOutputDevice": "False"
 }
 ```
 ##### FastFlags 2024®<sup>eal</sup>
