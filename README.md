@@ -1,33 +1,9 @@
-###### All from [uffl](https://github.com/devstacking/Epic-Fast-Flags-List) & [ptf](https://github.com/catb0x/roblox-potato-fflags)
+<h3 align="center"> ─────── ✧ ─────── </h3>
 
-> [!NOTE]
-> Please make an issue If you got a problem or a suggestion, Thanks.
+<h4 align="center">Discontinued</h4>
 
-# <img src="https://cdn.discordapp.com/emojis/1046770973170470973.webp?size=80&quality=lossless" width="28"/> Roblox Client Optimizer (but all fflags are known and does something.)
-##### Version: 0.1.5
-* change the value of **DFIntTextureQualityOverride** to 1 if you want it ***<sup>it looks really bad but it's for the boost 🤑</sup>***
-* Does not force DX10 Rendering API
-* added some stuff and edited some values
+<h3 align="center">══════⊹⊱≼≽⊰⊹══════</h3>
 
-### Blind leads the blinds.
-###### This is from a da hood server
-<img src="https://github.com/devstacking/RCO/assets/106433721/40406aa7-1831-4170-bd73-e751494f4382" width="458"/>
-
-edit: Their new thing "called SINDRO V3" are just from RFO with abusive fflags
-
-##### Here are some reasons:
-
-1. This is probably his preset *(it sucks)* (never expect something good from a dahoodian) **"20k-fps-boost"**
-1. **LuaAppSystemBar** is patched. <sup>(592)</sup>
-1. How can **FontSizePadding, FLogNetwork, ScrollWheelDeltaAmmount & 2.** boost your fps? Are you okay?
-1. **DebugSkyGray** <sup>(for me)</sup> doesn't give a boost.
-1. Asked for help y'all didnt do s\***\.
-
-### Not saying im smarter but y'all <img src="https://cdn.discordapp.com/emojis/1105507231081971782.png" width="22"/>
-
-# <img src="https://cdn.discordapp.com/emojis/1121484182724550748.gif?size=80&quality=lossless" width="28"/> RCOOL
-
-##### Might look awful but for it's performance. Also disables some useless settings
 ```json
 {
   "DFIntTaskSchedulerTargetFps": "9999",
@@ -92,4 +68,7 @@ edit: Their new thing "called SINDRO V3" are just from RFO with abusive fflags
   "FFlagEnableAudioOutputDevice": "False"
 }
 ```
-##### FastFlags 2024®<sup>eal</sup>
+
+<h4 align="center">rcool</h4>
+
+###### All from [uffl](https://github.com/devstacking/Epic-Fast-Flags-List) & [ptf](https://github.com/catb0x/roblox-potato-fflags)
