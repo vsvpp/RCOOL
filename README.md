@@ -1,8 +1,16 @@
 <h3 align="center"> ─────── ✧ ─────── </h3>
 
-<h4 align="center">Discontinued</h4>
+<h3 align="center">RCOOL 0.1.6</h3>
+
+<h4 align="center">
+  
+Remove & Chrome UI Topbar & Beta VC Badge
+
+</h4>
 
 <h3 align="center">══════⊹⊱≼≽⊰⊹══════</h3>
+
+#
 
 ```json
 {
@@ -42,6 +50,20 @@
   "FIntFRMMinGrassDistance": "0",
   "FIntFRMMaxGrassDistance": "0",
   "FIntRenderGrassDetailStrands": "0",
+  "FFlagChromeBetaFeature": "False",
+  "FFlagEnableChromePinnedChat": "False",
+  "FFlagEnableInGameMenuChrome": "False",
+  "FFlagEnableInGameMenuChromeABTest": "False",
+  "FFlagEnableInGameMenuChromeSignalAPI": "False",
+  "FFlagPlayerListChromePushdown": "False",
+  "FStringEnableChromePinnedChatForcedUserIds": "1",
+  "FStringGameMenuChromeForcedUserIds": "1"
+  "FFlagVoiceBetaBadge": "False",
+  "FFlagTopBarUseNewBadge": "False",
+  "FFlagEnableBetaBadgeLearnMore": "False",
+  "FFlagBetaBadgeLearnMoreLinkFormview": "False",
+  "FFlagControlBetaBadgeWithGuac": "False",
+  "FStringVoiceBetaBadgeLearnMoreLink": "null"
   "FintRenderGrassHeightScaler": "0",
   "DFFlagDebugRenderForceTechnologyVoxel": "True",
   "DFFlagDisableDPIScale": "True",
@@ -68,7 +90,5 @@
   "FFlagEnableAudioOutputDevice": "False"
 }
 ```
-
-<h4 align="center">rcool</h4>
 
 ###### All from [uffl](https://github.com/devstacking/Epic-Fast-Flags-List) & [ptf](https://github.com/catb0x/roblox-potato-fflags)
