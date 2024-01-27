@@ -57,7 +57,7 @@ Remove & Chrome UI Topbar & Beta VC Badge
   "FFlagEnableInGameMenuChromeSignalAPI": "False",
   "FFlagPlayerListChromePushdown": "False",
   "FStringEnableChromePinnedChatForcedUserIds": "1",
-  "FStringGameMenuChromeForcedUserIds": "1"
+  "FStringGameMenuChromeForcedUserIds": "1",
   "FFlagVoiceBetaBadge": "False",
   "FFlagTopBarUseNewBadge": "False",
   "FFlagEnableBetaBadgeLearnMore": "False",
