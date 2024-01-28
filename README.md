@@ -1,6 +1,8 @@
 <h3 align="center"> ─────── ✧ ─────── </h3>
 
-<h3 align="center">RCOOL 0.1.6</h3>
+<h3 align="center">RCOOL 0.1.7</h3>
+
+* Fixed all typos
 
 <h4 align="center">
   
@@ -63,7 +65,7 @@ Remove & Chrome UI Topbar & Beta VC Badge
   "FFlagEnableBetaBadgeLearnMore": "False",
   "FFlagBetaBadgeLearnMoreLinkFormview": "False",
   "FFlagControlBetaBadgeWithGuac": "False",
-  "FStringVoiceBetaBadgeLearnMoreLink": "null"
+  "FStringVoiceBetaBadgeLearnMoreLink": "null",
   "FintRenderGrassHeightScaler": "0",
   "DFFlagDebugRenderForceTechnologyVoxel": "True",
   "DFFlagDisableDPIScale": "True",
