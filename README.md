@@ -6,7 +6,7 @@
 
 <h4 align="center">
   
-Remove & Chrome UI Topbar & Beta VC Badge
+Remove & Chrome UI Topbar & Beta VC Badge & Improve Performance 
 
 </h4>
 
