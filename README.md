@@ -85,7 +85,22 @@
 ```json
 { "FFlagDisablePostFx": "True" }
 ```
-
+### Force LOD on Meshes
+```json
+{ "DFIntCSGLevelOfDetailSwitchingDistance": "0", "DFIntCSGLevelOfDetailSwitchingDistanceL12": "0", "DFIntCSGLevelOfDetailSwitchingDistanceL23": "0", "DFIntCSGLevelOfDetailSwitchingDistanceL34": "0" }
+```
+### Pause Voxelizer/Disable Baked Shadows
+```json
+{ "DFFlagDebugPauseVoxelizer": "True", "DFFlagDebugRenderForceTechnologyVoxel": "True", }
+```
+### Gray Sky
+```json
+{ "FFlagDebugSkyGray": "True" }
+```
+### Low Quallity Terrain Textures
+```json
+{ "FIntTerrainArraySliceSize": "4" }
+```
 ### No Textures
 ```json
 {
