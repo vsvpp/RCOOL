@@ -91,7 +91,7 @@
 ```
 ### Pause Voxelizer/Disable Baked Shadows
 ```json
-{ "DFFlagDebugPauseVoxelizer": "True", "DFFlagDebugRenderForceTechnologyVoxel": "True", }
+{ "DFFlagDebugPauseVoxelizer": "True", "DFFlagDebugRenderForceTechnologyVoxel": "True" }
 ```
 ### Gray Sky
 ```json
