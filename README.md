@@ -1,14 +1,6 @@
 <h3 align="center"> ─────── ✧ ─────── </h3>
 
-<h3 align="center">RCOOL 0.1.7</h3>
-
-* Fixed all typos
-
-<h4 align="center">
-  
-Remove & Chrome UI Topbar & Beta VC Badge & Improve Performance 
-
-</h4>
+<h3 align="center">RCOOL 1.2.0</h3>
 
 <h3 align="center">══════⊹⊱≼≽⊰⊹══════</h3>
 
@@ -16,6 +8,8 @@ Remove & Chrome UI Topbar & Beta VC Badge & Improve Performance
 
 ```json
 {
+  "FFlagHandleAltEnterFullscreenManually": "False",
+  "FLogNetwork": "7",
   "DFIntTaskSchedulerTargetFps": "9999",
   "FFlagFixGraphicsQuality": "True",
   "FFlagDebugDisableTelemetryEphemeralCounter": "True",
@@ -48,9 +42,13 @@ Remove & Chrome UI Topbar & Beta VC Badge & Improve Performance
   "FFlagGlobalWindRendering": "False",
   "FIntRenderShadowIntensity": "0",
   "FIntRenderShadowmapBias": "1",
-  "FIntDebugForceMSAASamples": "1",
+  "FIntDebugForceMSAASamples": "-1",
   "FIntFRMMinGrassDistance": "0",
+  "FFlagLuaAppUseUIBloxColorPalettes1": "True",
+  "FFlagEnableCommandAutocomplete": "True",
+  "FFlagUIBloxUseNewThemeColorPalettes": "True",
   "FIntFRMMaxGrassDistance": "0",
+  "FFlagSoundsUsePhysicalVelocity": "True",
   "FIntRenderGrassDetailStrands": "0",
   "FFlagChromeBetaFeature": "False",
   "FFlagEnableChromePinnedChat": "False",
@@ -69,11 +67,11 @@ Remove & Chrome UI Topbar & Beta VC Badge & Improve Performance
   "FintRenderGrassHeightScaler": "0",
   "DFFlagDebugRenderForceTechnologyVoxel": "True",
   "DFFlagDisableDPIScale": "True",
+  "DFIntTextureCompositorActiveJobs": "True",
   "FFlagCoreGuiTypeSelfViewPresent": "False",
   "DFIntDebugFRMQualityLevelOverride": "1",
   "FFlagDisableNewIGMinDUA": "True",
   "FFlagPreloadAllFonts": "True",
-  "FFlagFixGraphicsQuality": "True",
   "FFlagCommitToGraphicsQualityFix": "True",
   "FFlagDebugSkyGray": "True",
   "DFIntMaxFrameBufferSize": "4",
@@ -84,13 +82,11 @@ Remove & Chrome UI Topbar & Beta VC Badge & Improve Performance
   "FFlagDisablePostFx": "True",
   "FFlagEnableQuickGameLaunch": "True",
   "DFFlagDebugPauseVoxelizer": "True",
-  "FFlagHandleAltEnterFullscreenManually": "False",
-  "FFlagEnableInGameMenuChrome": "False",
+  "FIntTerrainArraySliceSize": "4",
   "DFFlagTextureQualityOverrideEnabled": "True",
-  "DFIntTextureQualityOverride": "3",
-  "DFFlagEnableDynamicHeadByDefault": "False",
+  "DFIntTextureQualityOverride": "1",
   "FFlagEnableAudioOutputDevice": "False"
 }
 ```
 
-###### All from [uffl](https://github.com/devstacking/Epic-Fast-Flags-List) & [ptf](https://github.com/catb0x/roblox-potato-fflags)
+###### All from [ffc](https://github.com/FastFlags/FastFlags-Collective) & [ptf](https://github.com/catb0x/roblox-potato-fflags)
