@@ -1,6 +1,6 @@
 <h3 align="center"> ─────── ✧ ─────── </h3>
 
-<h3 align="center">RCOOL 2.0.1</h3>
+<h3 align="center">RCOOL 2.0.2</h3>
 
 <h3 align="center">══════⊹⊱≼≽⊰⊹══════</h3>
 
@@ -58,7 +58,7 @@
   "FFlagBetaBadgeLearnMoreLinkFormview": "False",
   "FFlagControlBetaBadgeWithGuac": "False",
   "FStringVoiceBetaBadgeLearnMoreLink": "null",
-  "FintRenderGrassHeightScaler": "0",
+  "FIntRenderGrassHeightScaler": "0",
   "DFFlagDisableDPIScale": "True",
   "FFlagCoreGuiTypeSelfViewPresent": "False",
   "DFIntDebugFRMQualityLevelOverride": "1",
