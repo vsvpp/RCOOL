@@ -1,6 +1,6 @@
 <h3 align="center"> ─────── ✧ ─────── </h3>
 
-<h3 align="center">RCOOL 1.4.0</h3>
+<h3 align="center">RCOOL 1.4.1</h3>
 
 <h3 align="center">══════⊹⊱≼≽⊰⊹══════</h3>
 
@@ -27,9 +27,6 @@
   "FFlagGlobalWindActivated": "False",
   "FFlagEnableBetaFacialAnimation2": "False",
   "FFlagFacialAnimationSupport1": "False",
-  "DFIntAnimationLodFacsDistanceMin": "0",
-  "DFIntAnimationLodFacsDistanceMax": "0",
-  "DFIntAnimationLodFacsVisibilityDenominator": "0",
   "DFFlagEnableDynamicHeadByDefault": "False",
   "FIntRobloxGuiBlurIntensity": "0",
   "FFlagDebugRenderingSetDeterministic": "True",
@@ -45,17 +42,11 @@
   "FFlagGlobalWindRendering": "False",
   "FIntRenderShadowIntensity": "0",
   "FIntRenderShadowmapBias": "1",
-  "FIntDebugForceMSAASamples": "-1",
+  "FIntDebugForceMSAASamples": "1",
   "FIntFRMMinGrassDistance": "0",
-  "FFlagLuaAppUseUIBloxColorPalettes1": "True",
-  "FFlagEnableCommandAutocomplete": "True",
-  "FFlagUIBloxUseNewThemeColorPalettes": "True",
   "FIntFRMMaxGrassDistance": "0",
-  "FFlagSoundsUsePhysicalVelocity": "True",
   "FIntRenderGrassDetailStrands": "0",
   "FFlagChromeBetaFeature": "False",
-  "FFlagEnableInGameMenuChromeABTest2": "False",
-  "FFlagEnableReportAbuseMenuRoactABTest2": "False",
   "FFlagEnableChromePinnedChat": "False",
   "FFlagEnableInGameMenuChrome": "False",
   "FFlagEnableInGameMenuChromeABTest": "False",
@@ -72,7 +63,6 @@
   "FintRenderGrassHeightScaler": "0",
   "DFFlagDebugRenderForceTechnologyVoxel": "True",
   "DFFlagDisableDPIScale": "True",
-  "DFIntTextureCompositorActiveJobs": "True",
   "FFlagCoreGuiTypeSelfViewPresent": "False",
   "DFIntDebugFRMQualityLevelOverride": "1",
   "FFlagDisableNewIGMinDUA": "True",
@@ -87,10 +77,11 @@
   "FFlagDisablePostFx": "True",
   "FFlagEnableQuickGameLaunch": "True",
   "DFFlagDebugPauseVoxelizer": "True",
-  "FIntTerrainArraySliceSize": "4",
+  "FFlagDebugLuaHeapDump": "True",
   "DFFlagTextureQualityOverrideEnabled": "True",
-  "DFIntTextureQualityOverride": "1",
-  "FFlagEnableAudioOutputDevice": "False"
+  "DFIntTextureQualityOverride": "3",
+  "FFlagEnableAudioOutputDevice": "False",
+  "DFIntCanHideGuiGroupId": "32380007"
 }
 ```
 
