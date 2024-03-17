@@ -51,7 +51,7 @@
   "FFlagBetaBadgeLearnMoreLinkFormview": "False",
   "FFlagControlBetaBadgeWithGuac": "False",
   "FStringVoiceBetaBadgeLearnMoreLink": "null",
-  "FintRenderGrassHeightScaler": "0",
+  "FIntRenderGrassHeightScaler": "0",
   "DFFlagDisableDPIScale": "True",
   "FFlagCoreGuiTypeSelfViewPresent": "False",
   "DFIntDebugFRMQualityLevelOverride": "1",
