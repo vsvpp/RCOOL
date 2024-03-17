@@ -1,6 +1,6 @@
 <h3 align="center"> ─────── ✧ ─────── </h3>
 
-<h3 align="center">RCOOL 1.2.0</h3>
+<h3 align="center">RCOOL 1.4.0</h3>
 
 <h3 align="center">══════⊹⊱≼≽⊰⊹══════</h3>
 
@@ -27,6 +27,9 @@
   "FFlagGlobalWindActivated": "False",
   "FFlagEnableBetaFacialAnimation2": "False",
   "FFlagFacialAnimationSupport1": "False",
+  "DFIntAnimationLodFacsDistanceMin": "0",
+  "DFIntAnimationLodFacsDistanceMax": "0",
+  "DFIntAnimationLodFacsVisibilityDenominator": "0",
   "DFFlagEnableDynamicHeadByDefault": "False",
   "FIntRobloxGuiBlurIntensity": "0",
   "FFlagDebugRenderingSetDeterministic": "True",
@@ -51,6 +54,8 @@
   "FFlagSoundsUsePhysicalVelocity": "True",
   "FIntRenderGrassDetailStrands": "0",
   "FFlagChromeBetaFeature": "False",
+  "FFlagEnableInGameMenuChromeABTest2": "False",
+  "FFlagEnableReportAbuseMenuRoactABTest2": "False",
   "FFlagEnableChromePinnedChat": "False",
   "FFlagEnableInGameMenuChrome": "False",
   "FFlagEnableInGameMenuChromeABTest": "False",
