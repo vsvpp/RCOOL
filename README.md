@@ -1,6 +1,6 @@
 <h3 align="center"> ─────── ✧ ─────── </h3>
 
-<h3 align="center">RCOOL 2.0.0</h3>
+<h3 align="center">RCOOL 2.0.1</h3>
 
 <h3 align="center">══════⊹⊱≼≽⊰⊹══════</h3>
 
@@ -42,6 +42,8 @@
   "FIntFRMMaxGrassDistance": "0",
   "FFlagSoundsUsePhysicalVelocity": "True",
   "FIntRenderGrassDetailStrands": "0",
+  "FFlagEnableInGameMenuChromeABTest2": "False",
+  "FFlagEnableReportAbuseMenuRoactABTest2": "False",
   "FFlagChromeBetaFeature": "False",
   "FFlagEnableChromePinnedChat": "False",
   "FFlagEnableInGameMenuChrome": "False",
