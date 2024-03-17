@@ -35,6 +35,8 @@
   "FIntFRMMaxGrassDistance": "0",
   "FFlagSoundsUsePhysicalVelocity": "True",
   "FIntRenderGrassDetailStrands": "0",
+  "FFlagEnableInGameMenuChromeABTest2": "False",
+  "FFlagEnableReportAbuseMenuRoactABTest2": "False",
   "FFlagChromeBetaFeature": "False",
   "FFlagEnableChromePinnedChat": "False",
   "FFlagEnableInGameMenuChrome": "False",
