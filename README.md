@@ -1,6 +1,6 @@
 <h3 align="center"> ─────── ✧ ─────── </h3>
 
-<h3 align="center">RCOOL 1.4.1</h3>
+<h3 align="center">RCOOL 1.4.2</h3>
 
 <h3 align="center">══════⊹⊱≼≽⊰⊹══════</h3>
 
@@ -72,7 +72,7 @@
   "FintRenderGrassHeightScaler": "0",
   "DFFlagDebugRenderForceTechnologyVoxel": "True",
   "DFFlagDisableDPIScale": "True",
-  "DFIntTextureCompositorActiveJobs": "True",
+  "DFIntTextureCompositorActiveJobs": "-1",
   "FFlagCoreGuiTypeSelfViewPresent": "False",
   "DFIntDebugFRMQualityLevelOverride": "1",
   "FFlagDisableNewIGMinDUA": "True",
