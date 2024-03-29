@@ -1,10 +1,8 @@
 <h3 align="center"> ─────── ✧ ─────── </h3>
 
-<h3 align="center">RCOOL 1.4.4 [B] </h3>
+<h3 align="center">RCOOL 3.0.0</h3>
 
 <h3 align="center">══════⊹⊱≼≽⊰⊹══════</h3>
-
-#
 
 ```json
 {
@@ -20,42 +18,22 @@
   "FFlagDebugDisableTelemetryV2Counter": "True",
   "FFlagDebugDisableTelemetryV2Event": "True",
   "FFlagDebugDisableTelemetryV2Stat": "True",
-  "FStringPartTexturePackTable2022": "{\u0022glass\u0022:{\u0022ids\u0022:[\u0022rbxassetid://9873284556\u0022,\u0022rbxassetid://9438453972\u0022],\u0022color\u0022:[254,254,254,7]}}",
-  "FStringPartTexturePackTablePre2022": "{\u0022glass\u0022:{\u0022ids\u0022:[\u0022rbxassetid://7547304948\u0022,\u0022rbxassetid://7546645118\u0022],\u0022color\u0022:[254,254,254,7]}}",
-  "FStringTerrainMaterialTable2022": "",
-  "FStringTerrainMaterialTablePre2022": "",
-  "FFlagGlobalWindActivated": "False",
-  "FFlagEnableBetaFacialAnimation2": "False",
-  "FFlagFacialAnimationSupport1": "False",
-  "DFIntAnimationLodFacsDistanceMin": "0",
-  "DFIntAnimationLodFacsDistanceMax": "0",
-  "DFIntAnimationLodFacsVisibilityDenominator": "0",
-  "DFFlagEnableDynamicHeadByDefault": "False",
   "FIntRobloxGuiBlurIntensity": "0",
   "FFlagDebugRenderingSetDeterministic": "True",
-  "DFIntCSGLevelOfDetailSwitchingDistance": "0",
-  "DFIntCSGLevelOfDetailSwitchingDistanceL12": "0",
-  "DFIntCSGLevelOfDetailSwitchingDistanceL23": "0",
-  "DFIntCSGLevelOfDetailSwitchingDistanceL34": "0",
   "FIntRenderLocalLightUpdatesMax": "1",
   "FIntRenderLocalLightUpdatesMin": "1",
   "FFlagAdServiceEnabled": "False",
   "FFlagFastGPULightCulling3": "True",
   "FFlagNewLightAttenuation": "True",
   "FFlagGlobalWindRendering": "False",
-  "FIntRenderShadowIntensity": "0",
   "FIntRenderShadowmapBias": "1",
-  "FIntDebugForceMSAASamples": "-1",
-  "FIntFRMMinGrassDistance": "0",
   "FFlagLuaAppUseUIBloxColorPalettes1": "True",
   "FFlagEnableCommandAutocomplete": "True",
   "FFlagUIBloxUseNewThemeColorPalettes": "True",
-  "FIntFRMMaxGrassDistance": "0",
   "FFlagSoundsUsePhysicalVelocity": "True",
-  "FIntRenderGrassDetailStrands": "0",
-  "FFlagChromeBetaFeature": "False",
   "FFlagEnableInGameMenuChromeABTest2": "False",
   "FFlagEnableReportAbuseMenuRoactABTest2": "False",
+  "FFlagChromeBetaFeature": "False",
   "FFlagEnableChromePinnedChat": "False",
   "FFlagEnableInGameMenuChrome": "False",
   "FFlagEnableInGameMenuChromeABTest": "False",
@@ -69,29 +47,81 @@
   "FFlagBetaBadgeLearnMoreLinkFormview": "False",
   "FFlagControlBetaBadgeWithGuac": "False",
   "FStringVoiceBetaBadgeLearnMoreLink": "null",
-  "FIntRenderGrassHeightScaler": "0",
-  "DFFlagDebugRenderForceTechnologyVoxel": "True",
   "DFFlagDisableDPIScale": "True",
-  "DFIntTextureCompositorActiveJobs": "0",
   "FFlagCoreGuiTypeSelfViewPresent": "False",
-  "DFIntDebugFRMQualityLevelOverride": "1",
   "FFlagDisableNewIGMinDUA": "True",
   "FFlagPreloadAllFonts": "True",
   "FFlagCommitToGraphicsQualityFix": "True",
-  "FFlagDebugSkyGray": "True",
   "DFIntMaxFrameBufferSize": "4",
   "FFlagRenderGpuTextureCompressor": "True",
   "FFlagGpuGeometryManager7": "True",
   "DFFlagPredictedOOM": "False",
   "DFIntPredictedOOMPercent": "0",
-  "FFlagDisablePostFx": "True",
   "FFlagEnableQuickGameLaunch": "True",
-  "DFFlagDebugPauseVoxelizer": "True",
-  "FIntTerrainArraySliceSize": "4",
   "DFFlagTextureQualityOverrideEnabled": "True",
-  "DFIntTextureQualityOverride": "1",
-  "FFlagEnableAudioOutputDevice": "False"
+  "DFIntTextureQualityOverride": "3",
+  "FFlagEnableAudioOutputDevice": "False",
+  "FFlagEnableNavBarLabels2": "True",
+  "DFIntAvatarFaceChatHeadRollLimitDegrees": "360"
 }
 ```
 
+<h5 align="center">══════⊹⊱≼≽⊰⊹══════</h5>
+
+<h4 align="center">Optional FastFlags</h4>
+
+### FRM Quality Levels
+###### Explanation: 1-6 Are low graphics, Above 6 are high graphics
+```json
+{
+	"DFIntDebugFRMQualityLevelOverride": "1"
+}
+```
+### Remove Grass
+```json
+{
+	"FIntFRMMinGrassDistance": "0",
+	"FIntFRMMaxGrassDistance": "0",
+	"FIntRenderGrassDetailStrands": "0",
+	"FIntRenderGrassHeightScaler": "0"
+}
+```
+### Disable PostFX
+```json
+{ "FFlagDisablePostFx": "True" }
+```
+### Force LOD on Meshes
+```json
+{ "DFIntCSGLevelOfDetailSwitchingDistance": "0", "DFIntCSGLevelOfDetailSwitchingDistanceL12": "0", "DFIntCSGLevelOfDetailSwitchingDistanceL23": "0", "DFIntCSGLevelOfDetailSwitchingDistanceL34": "0" }
+```
+### Pause Voxelizer/Disable Baked Shadows
+```json
+{ "DFFlagDebugPauseVoxelizer": "True", "DFFlagDebugRenderForceTechnologyVoxel": "True" }
+```
+### Gray Sky
+```json
+{ "FFlagDebugSkyGray": "True" }
+```
+### Low Quallity Terrain Textures
+```json
+{ "FIntTerrainArraySliceSize": "4" }
+```
+### No Textures
+```json
+{
+    "FStringPartTexturePackTable2022": "{\"glass\":{\"ids\":[\"rbxassetid://9873284556\",\"rbxassetid://9438453972\"],\"color\":[254,254,254,7]}}",
+    "FStringPartTexturePackTablePre2022": "{\"glass\":{\"ids\":[\"rbxassetid://7547304948\",\"rbxassetid://7546645118\"],\"color\":[254,254,254,7]}}",
+    "FStringTerrainMaterialTable2022": "",
+    "FStringTerrainMaterialTablePre2022": ""
+    "FFlagMSRefactor5": "False"
+}
+```
+
+### View more at [FFC](https://github.com/FastFlags/FastFlags-Collective)
+
 ###### All from [ffc](https://github.com/FastFlags/FastFlags-Collective) & [ptf](https://github.com/catb0x/roblox-potato-fflags)
+
+<h3 align="center">FastFlags 2024®<sup>eal</sup></h3>
+
+<h3 align="center">https://fastflags.github.io/</h3>
+
