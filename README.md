@@ -2,6 +2,10 @@
 
 <h3 align="center">ZTEST 4.0.1</h3>
 
+<h3 align="center">https://discord.gg/YreqZ7aYmg</h3>
+
+<h6 align="center">https://dsc.gg/fastflags</h6>
+
 #### This will make your game more beautiful | THIS IS NOT FOR FPS BOOSTINGS
 
 ```json
